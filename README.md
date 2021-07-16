@@ -10,31 +10,14 @@
 <p></p>
 <div>
     <ul>
-        <li>Python3</li>
-        <li>Anaconda</li>
-        <li>Jupyter Notebook</li>
+        <li><a href="#1">List of Small Projects</a></li>
+        <li><a href="#2">System Requirements</a></li>
+        <li><a href="#3">How to View this Project</a></li>
     </ul>
 </div>
+<br/>
 
-<h2>Prerequisites</h2>
-<p></p>
-<div>
-    <ul>
-        <caption>System Requirements<</caption>
-        <li>Python3</li>
-        <li>Anaconda</li>
-        <li>Jupyter Notebook</li>
-    </ul>
-    <ul>
-        <caption>Python Packages</caption>
-        <li>Python3</li>
-        <li>Anaconda</li>
-        <li>Jupyter Notebook</li>
-    </ul>
-    <p>Specific requirements for python packages are also in the attached <b>requirements.txt</b>.</p>
-</div>
-
-<h2>List of Small Projects</h2>
+<h2 id="1">List of Small Projects</h2>
 <p></p>
 <div>
     <ul>
@@ -42,8 +25,20 @@
         <li>Stock Price Prediction(in Progress)</li>
     </ul>
 </div>
+<br/>
 
-<h2>How to View this Project</h2>
+<h2 id="2">System Requirements</h2>
+<p></p>
+<div>
+    <ul>
+        <li>Python3</li>
+        <li>Anaconda</li>
+        <li>Jupyter Notebook</li>
+    </ul>
+    <p>Specific requirements for python packages are in the attached <b>requirements.txt</b>.</p>
+</div>
+
+<h2 id="3">How to View this Project</h2>
 <p></p>
 <div>
     <ol>
@@ -52,3 +47,4 @@
     </ol>
     <p>I recommend using env feature of anaconda.</p>
 </div>
+<br/>
