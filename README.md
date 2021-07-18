@@ -3,6 +3,13 @@
 <p></p>
 <div>
     This project includes a series of small projects related to algorithmic trading.
+    <br/>
+    <h2>List of Small Projects</h2>
+    <ul>
+        <li>Algorithmic Trading using MACD</li>
+        <li>Stock Price Prediction</li>
+        <li>Portfolio Optimization(will be ready)</li>
+    </ul>
 </div>
 <hr/>
 
@@ -10,19 +17,8 @@
 <p></p>
 <div>
     <ul>
-        <li><a href="#1">List of Small Projects</a></li>
         <li><a href="#2">System Requirements</a></li>
         <li><a href="#3">How to View this Project</a></li>
-    </ul>
-</div>
-<br/>
-
-<h2 id="1">List of Small Projects</h2>
-<p></p>
-<div>
-    <ul>
-        <li>Algorithmic Trading using MACD</li>
-        <li>Stock Price Prediction(in Progress)</li>
     </ul>
 </div>
 <br/>
